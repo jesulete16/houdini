@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "670578417460",
+    "project_id": "houdini-c13ae",
+    "storage_bucket": "houdini-c13ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670578417460:android:5bd346c1967929f7910f61",
+        "android_client_info": {
+          "package_name": "com.example.houdini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670578417460-dbq4h9ii811hhn787loauaud68rguem8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy7xdm51iOWQVFmyBdeHHfLDaAe2ruHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670578417460-dbq4h9ii811hhn787loauaud68rguem8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670578417460-el5utgeprgjrkt8pnphqcmjhve4qqj2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.houdini"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

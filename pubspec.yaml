@@ -1,0 +1,37 @@
+name: houdini
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you want to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  supabase_flutter: ^2.5.0
+  google_sign_in: ^6.2.1
+  file_picker: ^9.0.1
+  video_player: ^2.9.3
+  chewie: ^1.10.0
+  video_player_web: ^2.3.4
+  youtube_player_iframe: ^5.2.0
+  youtube_explode_dart: ^2.1.0
+  url_launcher: ^6.1.14
+  intl: ^0.20.2
+  image_picker: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/houdini.jpg"
